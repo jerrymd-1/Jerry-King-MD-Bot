@@ -13,7 +13,7 @@ module.exports = {
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || ' ',
-    newsletterJid: '120363405564344038@newsletter',
+    newsletterJid: '120363406741941705@newsletter',
     updateZipUrl: 'https://github.com/jerrymd-1/Jerry-King-MD-Bot/archive/refs/heads/main.zip',
     
     // Sticker Configuration
